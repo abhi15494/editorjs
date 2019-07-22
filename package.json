@@ -1,0 +1,19 @@
+{
+  "name": "editorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@editorjs/editorjs": "^2.15.0"
+  },
+  "dependencies": {
+    "@editorjs/embed": "^2.2.1",
+    "@editorjs/header": "^2.3.0",
+    "@editorjs/list": "^1.4.0"
+  }
+}

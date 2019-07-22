@@ -1,0 +1,26 @@
+html, body {
+  color: #666666;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #eeeeee;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  padding: 0.5rem 1.5rem;
+  color: #ffffff;
+  background-color: #062df1;
+}
+
+#editorjs {
+  background: white;
+  margin-bottom: 1.5rem;
+}
+
+/*# sourceMappingURL=main.css.map */

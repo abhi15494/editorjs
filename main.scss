@@ -1,0 +1,30 @@
+$primary: #062df1;
+$white: #ffffff;
+$font: #666666;
+$light: #eeeeee;
+$family: Verdana, Geneva, Tahoma, sans-serif;
+
+html, body {
+    color: $font;
+    font-family: $family;
+    background-color: $light;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    padding: 0.5rem 1.5rem;
+    color: $white;
+    background-color: $primary;
+}
+
+#editorjs {
+    background: white;
+    margin-bottom: 1.5rem;
+}
