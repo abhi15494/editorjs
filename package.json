@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@editorjs/editorjs": "^2.15.0"
+    "@editorjs/editorjs": "^2.26.0"
   },
   "dependencies": {
     "@editorjs/embed": "^2.2.1",
